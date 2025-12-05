@@ -14,7 +14,7 @@ from model_utils import TEST_URL, TRAIN_URL, build_features
 def load_model():
     bundle_path = Path(__file__).parent / "artifacts" / "model_bundle.pkl"
     if not bundle_path.exists():
-        st.error("Model bundle not found. Run `python pack/train_model.py` first.")
+        st.error("Model bundle not found. Run `python streamlit/train_model.py` first.")
         st.stop()
     return joblib.load(bundle_path)
 
