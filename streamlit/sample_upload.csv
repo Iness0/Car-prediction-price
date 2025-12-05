@@ -1,0 +1,21 @@
+name,year,selling_price,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,torque,seats
+Tata Tigor 1.2 Revotron XT,2018,450000,35000,Petrol,Individual,Manual,First Owner,20.3 kmpl,1199 CC,84 bhp,114Nm@ 3500rpm,5.0
+Mahindra NuvoSport N8 AMT,2016,650000,50000,Diesel,Individual,Automatic,First Owner,17.45 kmpl,1493 CC,100 bhp,240Nm@ 1600-2800rpm,7.0
+Toyota Innova 2.5 GX 7 STR,2012,520000,162000,Diesel,Individual,Manual,Fourth & Above Owner,12.8 kmpl,2494 CC,102 bhp,20.4@ 1400-3400(kgm@ rpm),7.0
+Hyundai Sonata 2.0L CRDi MT,2009,330000,180000,Diesel,Individual,Manual,First Owner,13.6 kmpl,1991 CC,142 bhp,"33@ 2,000-2,680(kgm@ rpm)",5.0
+Hyundai i20 1.4 CRDi Era,2010,350000,90000,Diesel,Individual,Manual,Second Owner,23.0 kmpl,1396 CC,90 bhp,22.4 kgm at 1750-2750rpm,5.0
+Maruti Vitara Brezza ZDi Plus,2019,900000,40000,Diesel,Individual,Manual,First Owner,24.3 kmpl,1248 CC,88.5 bhp,200Nm@ 1750rpm,5.0
+Maruti 800 AC,2006,50000,40000,Petrol,Individual,Manual,Third Owner,16.1 kmpl,796 CC,37 bhp,59Nm@ 2500rpm,4.0
+Hyundai Grand i10 Magna,2016,400000,80000,Petrol,Individual,Manual,Second Owner,18.9 kmpl,1197 CC,82 bhp,114Nm@ 4000rpm,5.0
+Maruti Wagon R VXI BS IV with ABS,2010,215000,120600,Petrol,Individual,Manual,Second Owner,18.9 kmpl,998 CC,67.1 bhp,90Nm@ 3500rpm,5.0
+Mahindra Verito 1.5 D2 BSIV,2012,140000,120000,Diesel,Individual,Manual,Second Owner,21.03 kmpl,1461 CC,65 bhp,160Nm@ 2000rpm,5.0
+Hyundai Elite i20 Diesel Sportz,2019,700000,60000,Diesel,Individual,Manual,First Owner,22.54 kmpl,1396 CC,88.76 bhp,219.66nm@ 1500-2750rpm,5.0
+Maruti Alto 800 LXI Airbag,2013,190000,60000,Petrol,Individual,Manual,Second Owner,22.74 kmpl,796 CC,47.3 bhp,69Nm@ 3500rpm,5.0
+Mahindra Supro LX 8 Str,2018,400000,50000,Diesel,Individual,Manual,First Owner,23.5 kmpl,909 CC,45 bhp,98Nm@ 1600-3000rpm,8.0
+Hyundai i10 Magna,2013,295000,82246,Petrol,Dealer,Manual,First Owner,20.36 kmpl,1197 CC,78.9 bhp,111.7Nm@ 4000rpm,5.0
+Maruti Wagon R VXI BSIII,2012,240000,35000,Petrol,Individual,Manual,First Owner,18.9 kmpl,998 CC,67.1 bhp,90Nm@ 3500rpm,5.0
+Mahindra Scorpio S10 4WD,2015,950000,80000,Diesel,Individual,Manual,Second Owner,15.4 kmpl,2179 CC,120 bhp,280Nm@ 1800-2800rpm,7.0
+Tata Manza Club Class Quadrajet90 VX,2013,260000,189000,Diesel,Individual,Manual,First Owner,21.02 kmpl,1248 CC,88.76 bhp,200Nm@ 1750-3000rpm,5.0
+Chevrolet Cruze LTZ AT,2015,450000,155000,Diesel,Individual,Automatic,First Owner,14.81 kmpl,1998 CC,163.7 bhp,360Nm@ 2000rpm,5.0
+Hyundai Elite i20 Asta Option CVT BSIV,2018,890000,29000,Petrol,Dealer,Automatic,First Owner,17.4 kmpl,1197 CC,81.86 bhp,117nm@ 4000rpm,5.0
+Hyundai Xcent 1.1 CRDi SX Option,2017,550000,70000,Diesel,Individual,Manual,Second Owner,24.4 kmpl,1120 CC,71 bhp,180.4Nm@ 1750-2500rpm,5.0
